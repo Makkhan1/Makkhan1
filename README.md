@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=makkhan1" alt="makkhan1" /></a> </p>
 
-- 🔭 I’m currently working on [Computer vision]
+- 🔭 I’m currently working on Computer vision
 
 - 🌱 I’m currently learning **GenAI**
 
