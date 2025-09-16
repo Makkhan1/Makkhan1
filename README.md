@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=makkhan1" alt="makkhan1" /></a> </p>
 
-- 🔭 I’m currently working on [Coin Tracker](https://crypto-dashboard-avi.netlify.app/)
+- 🔭 I’m currently working on [Computer vision]
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **GenAI**
 
-- 👯 I’m looking to collaborate on [Ecommerce website](https://ecommerce-swtv.onrender.com/login)
+- 👯 I’m looking to collaborate on [GenAI]
 
 - 👨‍💻 All of my projects are available at [https://github.com/Makkhan1](https://github.com/Makkhan1)
 
