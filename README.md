@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **GenAI**
 
-- 👯 I’m looking to collaborate on [GenAI]
+- 👯 I’m looking to collaborate on GenAI
 
 - 👨‍💻 All of my projects are available at [https://github.com/Makkhan1](https://github.com/Makkhan1)
 
